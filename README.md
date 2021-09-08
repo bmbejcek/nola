@@ -1,9 +1,6 @@
 # NOLA
 Analysis of the effect of Hurricane Ida on New Orleans Police Call Data.
 
-# Background
-I researched a little into some interesting datasets to 
-
 # Folder Structure
 * /data: contains all raw data
 * /notebooks: contains all notebooks for analysis
